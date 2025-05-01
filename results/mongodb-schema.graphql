@@ -1,0 +1,1094 @@
+type buzzer {
+  id: ID!
+  node: String!
+  BEC: Float!
+  EVC: Float!
+  BEC_Norm: Float!
+  EVC_Norm: Int!
+  final_measure: Float!
+  tweet_url: String!
+  projectId: String!
+}
+
+type nodesType {
+  nodesType_0: nodesType_0!
+  nodesType_1: nodesType_1!
+  nodesType_2: nodesType_2!
+  nodesType_3: nodesType_3!
+  nodesType_4: nodesType_4!
+  nodesType_5: nodesType_5!
+  nodesType_6: nodesType_6!
+  nodesType_7: nodesType_7!
+  nodesType_8: nodesType_8!
+  nodesType_9: nodesType_9!
+  nodesType_10: nodesType_10!
+  nodesType_11: nodesType_11!
+  nodesType_12: nodesType_12!
+  nodesType_13: nodesType_13!
+  nodesType_14: nodesType_14!
+  nodesType_15: nodesType_15!
+  nodesType_16: nodesType_16!
+  nodesType_17: nodesType_17!
+  nodesType_18: nodesType_18!
+  nodesType_19: nodesType_19!
+  nodesType_20: nodesType_20!
+  nodesType_21: nodesType_21!
+  nodesType_22: nodesType_22!
+  nodesType_23: nodesType_23!
+  nodesType_24: nodesType_24!
+  nodesType_25: nodesType_25!
+  nodesType_26: nodesType_26!
+  nodesType_27: nodesType_27!
+  nodesType_28: nodesType_28!
+  nodesType_29: nodesType_29!
+  nodesType_30: nodesType_30!
+  nodesType_31: nodesType_31!
+  nodesType_32: nodesType_32!
+  nodesType_33: nodesType_33!
+  nodesType_34: nodesType_34!
+  nodesType_35: nodesType_35!
+  nodesType_36: nodesType_36!
+  nodesType_37: nodesType_37!
+  nodesType_38: nodesType_38!
+  nodesType_39: nodesType_39!
+  nodesType_40: nodesType_40!
+  nodesType_41: nodesType_41!
+  nodesType_42: nodesType_42!
+  nodesType_43: nodesType_43!
+  nodesType_44: nodesType_44!
+  nodesType_45: nodesType_45!
+  nodesType_46: nodesType_46!
+  nodesType_47: nodesType_47!
+  nodesType_48: nodesType_48!
+  nodesType_49: nodesType_49!
+  nodesType_50: nodesType_50!
+  nodesType_51: nodesType_51!
+  nodesType_52: nodesType_52!
+  nodesType_53: nodesType_53!
+}
+
+type nodesType_0 {
+  nodesType_0_id: String!
+  nodesType_0_name: String!
+  nodesType_0_val: Int!
+  nodesType_0_community: Int!
+  nodesType_0_profile_url: String!
+}
+
+type nodesType_1 {
+  nodesType_1_id: String!
+  nodesType_1_name: String!
+  nodesType_1_val: Int!
+  nodesType_1_community: Int!
+  nodesType_1_profile_url: String!
+}
+
+type nodesType_2 {
+  nodesType_2_id: String!
+  nodesType_2_name: String!
+  nodesType_2_val: Int!
+  nodesType_2_community: Int!
+  nodesType_2_profile_url: String!
+}
+
+type nodesType_3 {
+  nodesType_3_id: String!
+  nodesType_3_name: String!
+  nodesType_3_val: Int!
+  nodesType_3_community: Int!
+  nodesType_3_profile_url: String!
+}
+
+type nodesType_4 {
+  nodesType_4_id: String!
+  nodesType_4_name: String!
+  nodesType_4_val: Int!
+  nodesType_4_community: Int!
+  nodesType_4_profile_url: String!
+}
+
+type nodesType_5 {
+  nodesType_5_id: String!
+  nodesType_5_name: String!
+  nodesType_5_val: Int!
+  nodesType_5_community: Int!
+  nodesType_5_profile_url: String!
+}
+
+type nodesType_6 {
+  nodesType_6_id: String!
+  nodesType_6_name: String!
+  nodesType_6_val: Int!
+  nodesType_6_community: Int!
+  nodesType_6_profile_url: String!
+}
+
+type nodesType_7 {
+  nodesType_7_id: String!
+  nodesType_7_name: String!
+  nodesType_7_val: Int!
+  nodesType_7_community: Int!
+  nodesType_7_profile_url: String!
+}
+
+type nodesType_8 {
+  nodesType_8_id: String!
+  nodesType_8_name: String!
+  nodesType_8_val: Int!
+  nodesType_8_community: Int!
+  nodesType_8_profile_url: String!
+}
+
+type nodesType_9 {
+  nodesType_9_id: String!
+  nodesType_9_name: String!
+  nodesType_9_val: Int!
+  nodesType_9_community: Int!
+  nodesType_9_profile_url: String!
+}
+
+type nodesType_10 {
+  nodesType_10_id: String!
+  nodesType_10_name: String!
+  nodesType_10_val: Int!
+  nodesType_10_community: Int!
+  nodesType_10_profile_url: String!
+}
+
+type nodesType_11 {
+  nodesType_11_id: String!
+  nodesType_11_name: String!
+  nodesType_11_val: Int!
+  nodesType_11_community: Int!
+  nodesType_11_profile_url: String!
+}
+
+type nodesType_12 {
+  nodesType_12_id: String!
+  nodesType_12_name: String!
+  nodesType_12_val: Int!
+  nodesType_12_community: Int!
+  nodesType_12_profile_url: String!
+}
+
+type nodesType_13 {
+  nodesType_13_id: String!
+  nodesType_13_name: String!
+  nodesType_13_val: Int!
+  nodesType_13_community: Int!
+  nodesType_13_profile_url: String!
+}
+
+type nodesType_14 {
+  nodesType_14_id: String!
+  nodesType_14_name: String!
+  nodesType_14_val: Int!
+  nodesType_14_community: Int!
+  nodesType_14_profile_url: String!
+}
+
+type nodesType_15 {
+  nodesType_15_id: String!
+  nodesType_15_name: String!
+  nodesType_15_val: Int!
+  nodesType_15_community: Int!
+  nodesType_15_profile_url: String!
+}
+
+type nodesType_16 {
+  nodesType_16_id: String!
+  nodesType_16_name: String!
+  nodesType_16_val: Int!
+  nodesType_16_community: Int!
+  nodesType_16_profile_url: String!
+}
+
+type nodesType_17 {
+  nodesType_17_id: String!
+  nodesType_17_name: String!
+  nodesType_17_val: Int!
+  nodesType_17_community: Int!
+  nodesType_17_profile_url: String!
+}
+
+type nodesType_18 {
+  nodesType_18_id: String!
+  nodesType_18_name: String!
+  nodesType_18_val: Int!
+  nodesType_18_community: Int!
+  nodesType_18_profile_url: String!
+}
+
+type nodesType_19 {
+  nodesType_19_id: String!
+  nodesType_19_name: String!
+  nodesType_19_val: Int!
+  nodesType_19_community: Int!
+  nodesType_19_profile_url: String!
+}
+
+type nodesType_20 {
+  nodesType_20_id: String!
+  nodesType_20_name: String!
+  nodesType_20_val: Int!
+  nodesType_20_community: Int!
+  nodesType_20_profile_url: String!
+}
+
+type nodesType_21 {
+  nodesType_21_id: String!
+  nodesType_21_name: String!
+  nodesType_21_val: Int!
+  nodesType_21_community: Int!
+  nodesType_21_profile_url: String!
+}
+
+type nodesType_22 {
+  nodesType_22_id: String!
+  nodesType_22_name: String!
+  nodesType_22_val: Int!
+  nodesType_22_community: Int!
+  nodesType_22_profile_url: String!
+}
+
+type nodesType_23 {
+  nodesType_23_id: String!
+  nodesType_23_name: String!
+  nodesType_23_val: Int!
+  nodesType_23_community: Int!
+  nodesType_23_profile_url: String!
+}
+
+type nodesType_24 {
+  nodesType_24_id: String!
+  nodesType_24_name: String!
+  nodesType_24_val: Int!
+  nodesType_24_community: Int!
+  nodesType_24_profile_url: String!
+}
+
+type nodesType_25 {
+  nodesType_25_id: String!
+  nodesType_25_name: String!
+  nodesType_25_val: Int!
+  nodesType_25_community: Int!
+  nodesType_25_profile_url: String!
+}
+
+type nodesType_26 {
+  nodesType_26_id: String!
+  nodesType_26_name: String!
+  nodesType_26_val: Int!
+  nodesType_26_community: Int!
+  nodesType_26_profile_url: String!
+}
+
+type nodesType_27 {
+  nodesType_27_id: String!
+  nodesType_27_name: String!
+  nodesType_27_val: Int!
+  nodesType_27_community: Int!
+  nodesType_27_profile_url: String!
+}
+
+type nodesType_28 {
+  nodesType_28_id: String!
+  nodesType_28_name: String!
+  nodesType_28_val: Int!
+  nodesType_28_community: Int!
+  nodesType_28_profile_url: String!
+}
+
+type nodesType_29 {
+  nodesType_29_id: String!
+  nodesType_29_name: String!
+  nodesType_29_val: Int!
+  nodesType_29_community: Int!
+  nodesType_29_profile_url: String!
+}
+
+type nodesType_30 {
+  nodesType_30_id: String!
+  nodesType_30_name: String!
+  nodesType_30_val: Int!
+  nodesType_30_community: Int!
+  nodesType_30_profile_url: String!
+}
+
+type nodesType_31 {
+  nodesType_31_id: String!
+  nodesType_31_name: String!
+  nodesType_31_val: Int!
+  nodesType_31_community: Int!
+  nodesType_31_profile_url: String!
+}
+
+type nodesType_32 {
+  nodesType_32_id: String!
+  nodesType_32_name: String!
+  nodesType_32_val: Int!
+  nodesType_32_community: Int!
+  nodesType_32_profile_url: String!
+}
+
+type nodesType_33 {
+  nodesType_33_id: String!
+  nodesType_33_name: String!
+  nodesType_33_val: Int!
+  nodesType_33_community: Int!
+  nodesType_33_profile_url: String!
+}
+
+type nodesType_34 {
+  nodesType_34_id: String!
+  nodesType_34_name: String!
+  nodesType_34_val: Int!
+  nodesType_34_community: Int!
+  nodesType_34_profile_url: String!
+}
+
+type nodesType_35 {
+  nodesType_35_id: String!
+  nodesType_35_name: String!
+  nodesType_35_val: Int!
+  nodesType_35_community: Int!
+  nodesType_35_profile_url: String!
+}
+
+type nodesType_36 {
+  nodesType_36_id: String!
+  nodesType_36_name: String!
+  nodesType_36_val: Int!
+  nodesType_36_community: Int!
+  nodesType_36_profile_url: String!
+}
+
+type nodesType_37 {
+  nodesType_37_id: String!
+  nodesType_37_name: String!
+  nodesType_37_val: Int!
+  nodesType_37_community: Int!
+  nodesType_37_profile_url: String!
+}
+
+type nodesType_38 {
+  nodesType_38_id: String!
+  nodesType_38_name: String!
+  nodesType_38_val: Int!
+  nodesType_38_community: Int!
+  nodesType_38_profile_url: String!
+}
+
+type nodesType_39 {
+  nodesType_39_id: String!
+  nodesType_39_name: String!
+  nodesType_39_val: Int!
+  nodesType_39_community: Int!
+  nodesType_39_profile_url: String!
+}
+
+type nodesType_40 {
+  nodesType_40_id: String!
+  nodesType_40_name: String!
+  nodesType_40_val: Int!
+  nodesType_40_community: Int!
+  nodesType_40_profile_url: String!
+}
+
+type nodesType_41 {
+  nodesType_41_id: String!
+  nodesType_41_name: String!
+  nodesType_41_val: Int!
+  nodesType_41_community: Int!
+  nodesType_41_profile_url: String!
+}
+
+type nodesType_42 {
+  nodesType_42_id: String!
+  nodesType_42_name: String!
+  nodesType_42_val: Int!
+  nodesType_42_community: Int!
+  nodesType_42_profile_url: String!
+}
+
+type nodesType_43 {
+  nodesType_43_id: String!
+  nodesType_43_name: String!
+  nodesType_43_val: Int!
+  nodesType_43_community: Int!
+  nodesType_43_profile_url: String!
+}
+
+type nodesType_44 {
+  nodesType_44_id: String!
+  nodesType_44_name: String!
+  nodesType_44_val: Int!
+  nodesType_44_community: Int!
+  nodesType_44_profile_url: String!
+}
+
+type nodesType_45 {
+  nodesType_45_id: String!
+  nodesType_45_name: String!
+  nodesType_45_val: Int!
+  nodesType_45_community: Int!
+  nodesType_45_profile_url: String!
+}
+
+type nodesType_46 {
+  nodesType_46_id: String!
+  nodesType_46_name: String!
+  nodesType_46_val: Int!
+  nodesType_46_community: Int!
+  nodesType_46_profile_url: String!
+}
+
+type nodesType_47 {
+  nodesType_47_id: String!
+  nodesType_47_name: String!
+  nodesType_47_val: Int!
+  nodesType_47_community: Int!
+  nodesType_47_profile_url: String!
+}
+
+type nodesType_48 {
+  nodesType_48_id: String!
+  nodesType_48_name: String!
+  nodesType_48_val: Int!
+  nodesType_48_community: Int!
+  nodesType_48_profile_url: String!
+}
+
+type nodesType_49 {
+  nodesType_49_id: String!
+  nodesType_49_name: String!
+  nodesType_49_val: Int!
+  nodesType_49_community: Int!
+  nodesType_49_profile_url: String!
+}
+
+type nodesType_50 {
+  nodesType_50_id: String!
+  nodesType_50_name: String!
+  nodesType_50_val: Int!
+  nodesType_50_community: Int!
+  nodesType_50_profile_url: String!
+}
+
+type nodesType_51 {
+  nodesType_51_id: String!
+  nodesType_51_name: String!
+  nodesType_51_val: Int!
+  nodesType_51_community: Int!
+  nodesType_51_profile_url: String!
+}
+
+type nodesType_52 {
+  nodesType_52_id: String!
+  nodesType_52_name: String!
+  nodesType_52_val: Int!
+  nodesType_52_community: Int!
+  nodesType_52_profile_url: String!
+}
+
+type nodesType_53 {
+  nodesType_53_id: String!
+  nodesType_53_name: String!
+  nodesType_53_val: Int!
+  nodesType_53_community: Int!
+  nodesType_53_profile_url: String!
+}
+
+type linksType {
+  linksType_0: linksType_0!
+  linksType_1: linksType_1!
+  linksType_2: linksType_2!
+  linksType_3: linksType_3!
+  linksType_4: linksType_4!
+  linksType_5: linksType_5!
+  linksType_6: linksType_6!
+  linksType_7: linksType_7!
+  linksType_8: linksType_8!
+  linksType_9: linksType_9!
+  linksType_10: linksType_10!
+  linksType_11: linksType_11!
+  linksType_12: linksType_12!
+  linksType_13: linksType_13!
+  linksType_14: linksType_14!
+  linksType_15: linksType_15!
+  linksType_16: linksType_16!
+  linksType_17: linksType_17!
+  linksType_18: linksType_18!
+  linksType_19: linksType_19!
+  linksType_20: linksType_20!
+  linksType_21: linksType_21!
+  linksType_22: linksType_22!
+  linksType_23: linksType_23!
+  linksType_24: linksType_24!
+  linksType_25: linksType_25!
+  linksType_26: linksType_26!
+  linksType_27: linksType_27!
+  linksType_28: linksType_28!
+  linksType_29: linksType_29!
+  linksType_30: linksType_30!
+  linksType_31: linksType_31!
+  linksType_32: linksType_32!
+  linksType_33: linksType_33!
+  linksType_34: linksType_34!
+  linksType_35: linksType_35!
+  linksType_36: linksType_36!
+  linksType_37: linksType_37!
+  linksType_38: linksType_38!
+  linksType_39: linksType_39!
+  linksType_40: linksType_40!
+  linksType_41: linksType_41!
+  linksType_42: linksType_42!
+  linksType_43: linksType_43!
+  linksType_44: linksType_44!
+  linksType_45: linksType_45!
+  linksType_46: linksType_46!
+  linksType_47: linksType_47!
+  linksType_48: linksType_48!
+  linksType_49: linksType_49!
+  linksType_50: linksType_50!
+  linksType_51: linksType_51!
+  linksType_52: linksType_52!
+}
+
+type linksType_0 {
+  linksType_0_source: String!
+  linksType_0_target: String!
+  linksType_0_full_text: String!
+  linksType_0_topic: DateTime!
+  linksType_0_url_tweet: String!
+  linksType_0_source_community: Int!
+  linksType_0_target_community: Int!
+}
+
+type linksType_1 {
+  linksType_1_source: String!
+  linksType_1_target: String!
+  linksType_1_full_text: String!
+  linksType_1_topic: DateTime!
+  linksType_1_url_tweet: String!
+  linksType_1_source_community: Int!
+  linksType_1_target_community: Int!
+}
+
+type linksType_2 {
+  linksType_2_source: String!
+  linksType_2_target: String!
+  linksType_2_full_text: String!
+  linksType_2_topic: DateTime!
+  linksType_2_url_tweet: String!
+  linksType_2_source_community: Int!
+  linksType_2_target_community: Int!
+}
+
+type linksType_3 {
+  linksType_3_source: String!
+  linksType_3_target: String!
+  linksType_3_full_text: String!
+  linksType_3_topic: DateTime!
+  linksType_3_url_tweet: String!
+  linksType_3_source_community: Int!
+  linksType_3_target_community: Int!
+}
+
+type linksType_4 {
+  linksType_4_source: String!
+  linksType_4_target: String!
+  linksType_4_full_text: String!
+  linksType_4_topic: DateTime!
+  linksType_4_url_tweet: String!
+  linksType_4_source_community: Int!
+  linksType_4_target_community: Int!
+}
+
+type linksType_5 {
+  linksType_5_source: String!
+  linksType_5_target: String!
+  linksType_5_full_text: String!
+  linksType_5_topic: DateTime!
+  linksType_5_url_tweet: String!
+  linksType_5_source_community: Int!
+  linksType_5_target_community: Int!
+}
+
+type linksType_6 {
+  linksType_6_source: String!
+  linksType_6_target: String!
+  linksType_6_full_text: String!
+  linksType_6_topic: DateTime!
+  linksType_6_url_tweet: String!
+  linksType_6_source_community: Int!
+  linksType_6_target_community: Int!
+}
+
+type linksType_7 {
+  linksType_7_source: String!
+  linksType_7_target: String!
+  linksType_7_full_text: String!
+  linksType_7_topic: DateTime!
+  linksType_7_url_tweet: String!
+  linksType_7_source_community: Int!
+  linksType_7_target_community: Int!
+}
+
+type linksType_8 {
+  linksType_8_source: String!
+  linksType_8_target: String!
+  linksType_8_full_text: String!
+  linksType_8_topic: DateTime!
+  linksType_8_url_tweet: String!
+  linksType_8_source_community: Int!
+  linksType_8_target_community: Int!
+}
+
+type linksType_9 {
+  linksType_9_source: String!
+  linksType_9_target: String!
+  linksType_9_full_text: String!
+  linksType_9_topic: DateTime!
+  linksType_9_url_tweet: String!
+  linksType_9_source_community: Int!
+  linksType_9_target_community: Int!
+}
+
+type linksType_10 {
+  linksType_10_source: String!
+  linksType_10_target: String!
+  linksType_10_full_text: String!
+  linksType_10_topic: DateTime!
+  linksType_10_url_tweet: String!
+  linksType_10_source_community: Int!
+  linksType_10_target_community: Int!
+}
+
+type linksType_11 {
+  linksType_11_source: String!
+  linksType_11_target: String!
+  linksType_11_full_text: String!
+  linksType_11_topic: DateTime!
+  linksType_11_url_tweet: String!
+  linksType_11_source_community: Int!
+  linksType_11_target_community: Int!
+}
+
+type linksType_12 {
+  linksType_12_source: String!
+  linksType_12_target: String!
+  linksType_12_full_text: String!
+  linksType_12_topic: DateTime!
+  linksType_12_url_tweet: String!
+  linksType_12_source_community: Int!
+  linksType_12_target_community: Int!
+}
+
+type linksType_13 {
+  linksType_13_source: String!
+  linksType_13_target: String!
+  linksType_13_full_text: String!
+  linksType_13_topic: DateTime!
+  linksType_13_url_tweet: String!
+  linksType_13_source_community: Int!
+  linksType_13_target_community: Int!
+}
+
+type linksType_14 {
+  linksType_14_source: String!
+  linksType_14_target: String!
+  linksType_14_full_text: String!
+  linksType_14_topic: DateTime!
+  linksType_14_url_tweet: String!
+  linksType_14_source_community: Int!
+  linksType_14_target_community: Int!
+}
+
+type linksType_15 {
+  linksType_15_source: String!
+  linksType_15_target: String!
+  linksType_15_full_text: String!
+  linksType_15_topic: DateTime!
+  linksType_15_url_tweet: String!
+  linksType_15_source_community: Int!
+  linksType_15_target_community: Int!
+}
+
+type linksType_16 {
+  linksType_16_source: String!
+  linksType_16_target: String!
+  linksType_16_full_text: String!
+  linksType_16_topic: DateTime!
+  linksType_16_url_tweet: String!
+  linksType_16_source_community: Int!
+  linksType_16_target_community: Int!
+}
+
+type linksType_17 {
+  linksType_17_source: String!
+  linksType_17_target: String!
+  linksType_17_full_text: String!
+  linksType_17_topic: DateTime!
+  linksType_17_url_tweet: String!
+  linksType_17_source_community: Int!
+  linksType_17_target_community: Int!
+}
+
+type linksType_18 {
+  linksType_18_source: String!
+  linksType_18_target: String!
+  linksType_18_full_text: String!
+  linksType_18_topic: DateTime!
+  linksType_18_url_tweet: String!
+  linksType_18_source_community: Int!
+  linksType_18_target_community: Int!
+}
+
+type linksType_19 {
+  linksType_19_source: String!
+  linksType_19_target: String!
+  linksType_19_full_text: String!
+  linksType_19_topic: DateTime!
+  linksType_19_url_tweet: String!
+  linksType_19_source_community: Int!
+  linksType_19_target_community: Int!
+}
+
+type linksType_20 {
+  linksType_20_source: String!
+  linksType_20_target: String!
+  linksType_20_full_text: String!
+  linksType_20_topic: DateTime!
+  linksType_20_url_tweet: String!
+  linksType_20_source_community: Int!
+  linksType_20_target_community: Int!
+}
+
+type linksType_21 {
+  linksType_21_source: String!
+  linksType_21_target: String!
+  linksType_21_full_text: String!
+  linksType_21_topic: DateTime!
+  linksType_21_url_tweet: String!
+  linksType_21_source_community: Int!
+  linksType_21_target_community: Int!
+}
+
+type linksType_22 {
+  linksType_22_source: String!
+  linksType_22_target: String!
+  linksType_22_full_text: String!
+  linksType_22_topic: DateTime!
+  linksType_22_url_tweet: String!
+  linksType_22_source_community: Int!
+  linksType_22_target_community: Int!
+}
+
+type linksType_23 {
+  linksType_23_source: String!
+  linksType_23_target: String!
+  linksType_23_full_text: String!
+  linksType_23_topic: DateTime!
+  linksType_23_url_tweet: String!
+  linksType_23_source_community: Int!
+  linksType_23_target_community: Int!
+}
+
+type linksType_24 {
+  linksType_24_source: String!
+  linksType_24_target: String!
+  linksType_24_full_text: String!
+  linksType_24_topic: DateTime!
+  linksType_24_url_tweet: String!
+  linksType_24_source_community: Int!
+  linksType_24_target_community: Int!
+}
+
+type linksType_25 {
+  linksType_25_source: String!
+  linksType_25_target: String!
+  linksType_25_full_text: String!
+  linksType_25_topic: DateTime!
+  linksType_25_url_tweet: String!
+  linksType_25_source_community: Int!
+  linksType_25_target_community: Int!
+}
+
+type linksType_26 {
+  linksType_26_source: String!
+  linksType_26_target: String!
+  linksType_26_full_text: String!
+  linksType_26_topic: DateTime!
+  linksType_26_url_tweet: String!
+  linksType_26_source_community: Int!
+  linksType_26_target_community: Int!
+}
+
+type linksType_27 {
+  linksType_27_source: String!
+  linksType_27_target: String!
+  linksType_27_full_text: String!
+  linksType_27_topic: DateTime!
+  linksType_27_url_tweet: String!
+  linksType_27_source_community: Int!
+  linksType_27_target_community: Int!
+}
+
+type linksType_28 {
+  linksType_28_source: String!
+  linksType_28_target: String!
+  linksType_28_full_text: String!
+  linksType_28_topic: DateTime!
+  linksType_28_url_tweet: String!
+  linksType_28_source_community: Int!
+  linksType_28_target_community: Int!
+}
+
+type linksType_29 {
+  linksType_29_source: String!
+  linksType_29_target: String!
+  linksType_29_full_text: String!
+  linksType_29_topic: DateTime!
+  linksType_29_url_tweet: String!
+  linksType_29_source_community: Int!
+  linksType_29_target_community: Int!
+}
+
+type linksType_30 {
+  linksType_30_source: String!
+  linksType_30_target: String!
+  linksType_30_full_text: String!
+  linksType_30_topic: DateTime!
+  linksType_30_url_tweet: String!
+  linksType_30_source_community: Int!
+  linksType_30_target_community: Int!
+}
+
+type linksType_31 {
+  linksType_31_source: String!
+  linksType_31_target: String!
+  linksType_31_full_text: String!
+  linksType_31_topic: DateTime!
+  linksType_31_url_tweet: String!
+  linksType_31_source_community: Int!
+  linksType_31_target_community: Int!
+}
+
+type linksType_32 {
+  linksType_32_source: String!
+  linksType_32_target: String!
+  linksType_32_full_text: String!
+  linksType_32_topic: DateTime!
+  linksType_32_url_tweet: String!
+  linksType_32_source_community: Int!
+  linksType_32_target_community: Int!
+}
+
+type linksType_33 {
+  linksType_33_source: String!
+  linksType_33_target: String!
+  linksType_33_full_text: String!
+  linksType_33_topic: DateTime!
+  linksType_33_url_tweet: String!
+  linksType_33_source_community: Int!
+  linksType_33_target_community: Int!
+}
+
+type linksType_34 {
+  linksType_34_source: String!
+  linksType_34_target: String!
+  linksType_34_full_text: String!
+  linksType_34_topic: DateTime!
+  linksType_34_url_tweet: String!
+  linksType_34_source_community: Int!
+  linksType_34_target_community: Int!
+}
+
+type linksType_35 {
+  linksType_35_source: String!
+  linksType_35_target: String!
+  linksType_35_full_text: String!
+  linksType_35_topic: DateTime!
+  linksType_35_url_tweet: String!
+  linksType_35_source_community: Int!
+  linksType_35_target_community: Int!
+}
+
+type linksType_36 {
+  linksType_36_source: String!
+  linksType_36_target: String!
+  linksType_36_full_text: String!
+  linksType_36_topic: DateTime!
+  linksType_36_url_tweet: String!
+  linksType_36_source_community: Int!
+  linksType_36_target_community: Int!
+}
+
+type linksType_37 {
+  linksType_37_source: String!
+  linksType_37_target: String!
+  linksType_37_full_text: String!
+  linksType_37_topic: DateTime!
+  linksType_37_url_tweet: String!
+  linksType_37_source_community: Int!
+  linksType_37_target_community: Int!
+}
+
+type linksType_38 {
+  linksType_38_source: String!
+  linksType_38_target: String!
+  linksType_38_full_text: String!
+  linksType_38_topic: DateTime!
+  linksType_38_url_tweet: String!
+  linksType_38_source_community: Int!
+  linksType_38_target_community: Int!
+}
+
+type linksType_39 {
+  linksType_39_source: String!
+  linksType_39_target: String!
+  linksType_39_full_text: String!
+  linksType_39_topic: DateTime!
+  linksType_39_url_tweet: String!
+  linksType_39_source_community: Int!
+  linksType_39_target_community: Int!
+}
+
+type linksType_40 {
+  linksType_40_source: String!
+  linksType_40_target: String!
+  linksType_40_full_text: String!
+  linksType_40_topic: DateTime!
+  linksType_40_url_tweet: String!
+  linksType_40_source_community: Int!
+  linksType_40_target_community: Int!
+}
+
+type linksType_41 {
+  linksType_41_source: String!
+  linksType_41_target: String!
+  linksType_41_full_text: String!
+  linksType_41_topic: DateTime!
+  linksType_41_url_tweet: String!
+  linksType_41_source_community: Int!
+  linksType_41_target_community: Int!
+}
+
+type linksType_42 {
+  linksType_42_source: String!
+  linksType_42_target: String!
+  linksType_42_full_text: String!
+  linksType_42_topic: DateTime!
+  linksType_42_url_tweet: String!
+  linksType_42_source_community: Int!
+  linksType_42_target_community: Int!
+}
+
+type linksType_43 {
+  linksType_43_source: String!
+  linksType_43_target: String!
+  linksType_43_full_text: String!
+  linksType_43_topic: DateTime!
+  linksType_43_url_tweet: String!
+  linksType_43_source_community: Int!
+  linksType_43_target_community: Int!
+}
+
+type linksType_44 {
+  linksType_44_source: String!
+  linksType_44_target: String!
+  linksType_44_full_text: String!
+  linksType_44_topic: DateTime!
+  linksType_44_url_tweet: String!
+  linksType_44_source_community: Int!
+  linksType_44_target_community: Int!
+}
+
+type linksType_45 {
+  linksType_45_source: String!
+  linksType_45_target: String!
+  linksType_45_full_text: String!
+  linksType_45_topic: DateTime!
+  linksType_45_url_tweet: String!
+  linksType_45_source_community: Int!
+  linksType_45_target_community: Int!
+}
+
+type linksType_46 {
+  linksType_46_source: String!
+  linksType_46_target: String!
+  linksType_46_full_text: String!
+  linksType_46_topic: DateTime!
+  linksType_46_url_tweet: String!
+  linksType_46_source_community: Int!
+  linksType_46_target_community: Int!
+}
+
+type linksType_47 {
+  linksType_47_source: String!
+  linksType_47_target: String!
+  linksType_47_full_text: String!
+  linksType_47_topic: DateTime!
+  linksType_47_url_tweet: String!
+  linksType_47_source_community: Int!
+  linksType_47_target_community: Int!
+}
+
+type linksType_48 {
+  linksType_48_source: String!
+  linksType_48_target: String!
+  linksType_48_full_text: String!
+  linksType_48_topic: DateTime!
+  linksType_48_url_tweet: String!
+  linksType_48_source_community: Int!
+  linksType_48_target_community: Int!
+}
+
+type linksType_49 {
+  linksType_49_source: String!
+  linksType_49_target: String!
+  linksType_49_full_text: String!
+  linksType_49_topic: DateTime!
+  linksType_49_url_tweet: String!
+  linksType_49_source_community: Int!
+  linksType_49_target_community: Int!
+}
+
+type linksType_50 {
+  linksType_50_source: String!
+  linksType_50_target: String!
+  linksType_50_full_text: String!
+  linksType_50_topic: DateTime!
+  linksType_50_url_tweet: String!
+  linksType_50_source_community: Int!
+  linksType_50_target_community: Int!
+}
+
+type linksType_51 {
+  linksType_51_source: String!
+  linksType_51_target: String!
+  linksType_51_full_text: String!
+  linksType_51_topic: DateTime!
+  linksType_51_url_tweet: String!
+  linksType_51_source_community: Int!
+  linksType_51_target_community: Int!
+}
+
+type linksType_52 {
+  linksType_52_source: String!
+  linksType_52_target: String!
+  linksType_52_full_text: String!
+  linksType_52_topic: DateTime!
+  linksType_52_url_tweet: String!
+  linksType_52_source_community: Int!
+  linksType_52_target_community: Int!
+}
+
+type community {
+  id: ID!
+  projectId: String!
+  nodes: nodesType!
+  links: linksType!
+}
+

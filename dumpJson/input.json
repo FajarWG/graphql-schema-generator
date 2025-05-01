@@ -1,0 +1,7 @@
+{
+  "statusCode": 201,
+  "message": "Login successful",
+  "data": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNjZW5hcmlvNEBnbWFpbC5jb20iLCJuYW1lIjoic2NlbmFyaW80IiwiX2lkIjoiNjczNmMzZWU5ZGYyY2IzMGU2NjI4NTY1IiwiaWF0IjoxNzQ1OTg0MjMzLCJleHAiOjE3NDU5ODc4MzN9.j2-UdA5w-jif85ia98pSfYyInruf0q9oWdgxUV95quM"
+  }
+}

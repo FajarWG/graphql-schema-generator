@@ -1,0 +1,118 @@
+type LoginResponse_data {
+  accessToken: String!
+}
+
+type LoginResponse {
+  statusCode: Int!
+  message: String!
+  data: LoginResponse_data!
+}
+
+type Projects_data_projects_project_status {
+  topic_modelling: Boolean!
+  sentiment: Boolean!
+  emotion: Boolean!
+  sna: Boolean!
+  _id: String!
+}
+
+type Projects_data_projects {
+  _id: String!
+  title: String!
+  description: String!
+  keyword: String!
+  userId: String!
+  topic_category: String!
+  language: String!
+  start_date_crawl: String!
+  end_date_crawl: String!
+  createdAt: String!
+  project_status: Projects_data_projects_project_status!
+  __v: Int!
+}
+
+type Projects_data {
+  projects: [Projects_data_projects]!
+  total: Int!
+  page: Int!
+  limit: Int!
+}
+
+type Projects {
+  statusCode: Int!
+  message: String!
+  data: Projects_data!
+}
+
+type Prompt_data_prompt_topik_1 {
+  optimal_prompt: String!
+  pertanyaan: String!
+}
+
+type Prompt_data_prompt_topik_2 {
+  optimal_prompt: String!
+  pertanyaan: String!
+}
+
+type Prompt_data_prompt_topik_3 {
+  optimal_prompt: String!
+  pertanyaan: String!
+}
+
+type Prompt_data_prompt {
+  topik_1: [Prompt_data_prompt_topik_1]!
+  topik_2: [Prompt_data_prompt_topik_2]!
+  topik_3: [Prompt_data_prompt_topik_3]!
+}
+
+type Prompt_data {
+  project_id: String!
+  prompt: Prompt_data_prompt!
+}
+
+type Prompt {
+  data: Prompt_data!
+}
+
+type Topic_data {
+  context: String!
+  keyword: String!
+  projectId: String!
+  topicId: Int!
+  words: [String]!
+}
+
+type Topic {
+  data: [Topic_data]!
+  message: String!
+  status: Int!
+}
+
+type SNA_data_links {
+  full_text: String!
+  source: String!
+  source_community: Int!
+  target: String!
+  target_community: Int!
+  topic: String!
+  url_tweet: String!
+}
+
+type SNA_data_nodes {
+  community: Int!
+  id: String!
+  name: String!
+  profile_url: String!
+  val: Int!
+}
+
+type SNA_data {
+  links: [SNA_data_links]!
+  nodes: [SNA_data_nodes]!
+  projectId: String!
+}
+
+type SNA {
+  data: [SNA_data]!
+  total_data: Int!
+}

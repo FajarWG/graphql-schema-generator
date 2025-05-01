@@ -1,0 +1,37 @@
+{
+  "data": {
+    "project_id": "674f063d7ae271700e0f711a",
+    "prompt": {
+      "topik_1": [
+        {
+          "optimal_prompt": "Jelaskan bagaimana dampak penutupan sekolah selama pandemi COVID-19 terhadap kualitas pendidikan di Indonesia. Berikan analisis terperinci mengenai perubahan yang terjadi dan tantangan yang dihadapi. <br> Question: Bagaimana dampak penutupan sekolah selama pandemi COVID-19 terhadap kualitas pendidikan di Indonesia? <br> Topic: Penutupan sekolah selama pandemi COVID-19 dan dampaknya terhadap kualitas pendidikan di Indonesia. <br> Berikan jawaban yang detail: ",
+          "pertanyaan": "Bagaimana dampak penutupan sekolah selama pandemi COVID-19 terhadap kualitas pendidikan di Indonesia?"
+        },
+        {
+          "optimal_prompt": "Jelaskan langkah-langkah yang telah diambil oleh pemerintah Indonesia untuk mengatasi tantangan pendidikan selama pandemi. Berikan contoh konkret dari kebijakan atau program yang telah diterapkan. <br> Question: Apa saja langkah-langkah yang telah diambil oleh pemerintah Indonesia untuk mengatasi tantangan pendidikan selama pandemi? <br> Topic: Langkah-langkah pemerintah Indonesia dalam mengatasi tantangan pendidikan selama pandemi COVID-19. <br> Berikan jawaban yang detail: ",
+          "pertanyaan": "Apa saja langkah-langkah yang telah diambil oleh pemerintah Indonesia untuk mengatasi tantangan pendidikan selama pandemi?"
+        }
+      ],
+      "topik_2": [
+        {
+          "optimal_prompt": "Jelaskan manfaat yang diharapkan dari pembangunan jalan tol baru yang menghubungkan Jakarta dan Surabaya. Berikan analisis mengenai dampak positif terhadap konektivitas dan pertumbuhan ekonomi di wilayah tersebut. <br> Question: Apa saja manfaat yang diharapkan dari pembangunan jalan tol baru yang menghubungkan Jakarta dan Surabaya? <br> Topic: Manfaat pembangunan jalan tol baru antara Jakarta dan Surabaya. <br> Berikan jawaban yang detail: ",
+          "pertanyaan": "Apa saja manfaat yang diharapkan dari pembangunan jalan tol baru yang menghubungkan Jakarta dan Surabaya?"
+        },
+        {
+          "optimal_prompt": "Jelaskan tanggapan masyarakat terhadap proyek pembangunan jalan tol baru ini. Berikan analisis mengenai kritik yang muncul terkait dampak lingkungan dan bagaimana pemerintah meresponsnya. <br> Question: Bagaimana tanggapan masyarakat terhadap proyek pembangunan jalan tol baru ini? <br> Topic: Tanggapan masyarakat terhadap proyek pembangunan jalan tol baru antara Jakarta dan Surabaya. <br> Berikan jawaban yang detail: ",
+          "pertanyaan": "Bagaimana tanggapan masyarakat terhadap proyek pembangunan jalan tol baru ini?"
+        }
+      ],
+      "topik_3": [
+        {
+          "optimal_prompt": "Does the Dubai Chocolate Turkish Delight relate to any traditional desserts?kan apa yang membuat nasi goreng menjadi salah satu makanan favorit masyarakat Indonesia. Berikan analisis mengenai sejarah, variasi, dan popularitas nasi goreng di berbagai daerah. <br> Question: Apa yang membuat nasi goreng menjadi salah satu makanan favorit masyarakat Indonesia? <br> Topic: Popularitas nasi goreng di Indonesia. <br> Berikan jawaban yang detail: ",
+          "pertanyaan": "Does the Dubai Chocolate Turkish Delight relate to any traditional desserts?"
+        },
+        {
+          "optimal_prompt": "Does turkish delight suitable for Southeast Asian culinary?",
+          "pertanyaan": "Does turkish delight suitable for Southeast Asian culinary?"
+        }
+      ]
+    }
+  }
+}

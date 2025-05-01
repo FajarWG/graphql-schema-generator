@@ -1,0 +1,571 @@
+{
+  "statusCode": 200,
+  "message": "Projects fetched successfully",
+  "data": {
+    "projects": [
+      {
+        "_id": "6751e0b37ae271700e0f724f",
+        "title": "P. Diddy Research",
+        "description": "P. Diddy, also known as Sean Combs, is an American rapper, producer, entrepreneur, and fashion mogul. Renowned for founding Bad Boy Records, he has launched iconic artists and earned multiple awards. Beyond music, he's a business innovator, with ventures in fashion, spirits, and media.",
+        "keyword": "diddy",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "entertainment",
+        "language": "en",
+        "start_date_crawl": "2024-10-01T00:00:00.000Z",
+        "end_date_crawl": "2024-12-01T00:00:00.000Z",
+        "createdAt": "2024-12-05T17:19:47.459Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "6751e0b37ae271700e0f7250"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "674f063d7ae271700e0f711a",
+        "title": "Dubai Chocolate ",
+        "description": "Dubai Chocolate Analysis Project",
+        "keyword": "dubai chocolate",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "others",
+        "language": "en",
+        "start_date_crawl": "2024-11-03T00:00:00.000Z",
+        "end_date_crawl": "2024-12-03T00:00:00.000Z",
+        "createdAt": "2024-12-03T13:23:09.947Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "674f063d7ae271700e0f711b"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67517b487ae271700e0f720c",
+        "title": "P. Diddy Analysis",
+        "description": "P. Diddy, also known as Sean Combs, is an American rapper, producer, entrepreneur, and fashion mogul. Renowned for founding Bad Boy Records, he has launched iconic artists and earned multiple awards. Beyond music, he's a business innovator, with ventures in fashion, spirits, and media.",
+        "keyword": "diddy",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "entertainment",
+        "language": "en",
+        "start_date_crawl": "2024-10-01T00:00:00.000Z",
+        "end_date_crawl": "2024-12-01T00:00:00.000Z",
+        "createdAt": "2024-12-05T10:07:04.846Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "67517b487ae271700e0f720d"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678f284325566c37e4448cd2",
+        "title": "test",
+        "description": "test2",
+        "keyword": "arabika",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "other",
+        "language": "id",
+        "start_date_crawl": "2024-07-02T00:00:00.000Z",
+        "end_date_crawl": "2024-08-02T00:00:00.000Z",
+        "createdAt": "2025-01-21T04:53:23.983Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "678f284325566c37e4448cd3"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "674f0f1e7ae271700e0f714b",
+        "title": "Dubai Chocolate Analysis",
+        "description": "-",
+        "keyword": "dubai chocolate",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "others",
+        "language": "id",
+        "start_date_crawl": "2024-10-01T00:00:00.000Z",
+        "end_date_crawl": "2024-12-01T00:00:00.000Z",
+        "createdAt": "2024-12-03T14:01:02.283Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "674f0f1e7ae271700e0f714c"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678dbcbc7ae271700e0f7486",
+        "title": "Makan Gratis",
+        "description": "Program Makan Bergizi Gratis (PMG)",
+        "keyword": "Makan gratis",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "social",
+        "language": "id",
+        "start_date_crawl": "2024-12-01T00:00:00.000Z",
+        "end_date_crawl": "2025-01-20T00:00:00.000Z",
+        "createdAt": "2025-01-20T03:02:20.884Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "678dbcbc7ae271700e0f7487"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "6742f50d7ae271700e0f6c5c",
+        "title": "Soros Fund Analysis",
+        "description": "Comprehensive analysis of the Soros Fund's presence and discourse in social media.",
+        "keyword": "Soros Fund",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "economic",
+        "language": "en",
+        "start_date_crawl": "2024-10-01T00:00:00.000Z",
+        "end_date_crawl": "2024-11-23T00:00:00.000Z",
+        "createdAt": "2024-11-24T09:42:37.260Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "6742f50d7ae271700e0f6c5d"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "674f84b17ae271700e0f71df",
+        "title": "Dubai Chocolate Analysis",
+        "description": "Analysis about Dubai Chocolate",
+        "keyword": "dubai chocolate",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "others",
+        "language": "en",
+        "start_date_crawl": "2024-11-01T00:00:00.000Z",
+        "end_date_crawl": "2024-12-01T00:00:00.000Z",
+        "createdAt": "2024-12-03T22:22:41.005Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "674f84b17ae271700e0f71e0"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "6751f5337ae271700e0f7273",
+        "title": "P. Diddy Comprehensive Analysis",
+        "description": "`",
+        "keyword": "diddy",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "entertainment",
+        "language": "en",
+        "start_date_crawl": "2024-10-01T00:00:00.000Z",
+        "end_date_crawl": "2024-12-01T00:00:00.000Z",
+        "createdAt": "2024-12-05T18:47:15.507Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "6751f5337ae271700e0f7274"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "679c80900227fb71237af749",
+        "title": "Makan Gratis Prabowo",
+        "description": "Makan gratis di Indonesia kini semakin populer melalui berbagai inisiatif sosial dan gerakan komunitas yang bertujuan membantu mereka yang membutuhkan, seperti program berbagi makanan dan rumah makan sosial.",
+        "keyword": "Makan gratis",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "social",
+        "language": "id",
+        "start_date_crawl": "2024-12-01T00:00:00.000Z",
+        "end_date_crawl": "2025-01-30T00:00:00.000Z",
+        "createdAt": "2025-01-31T07:49:36.694Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "679c80900227fb71237af74a"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678e0cc825566c37e4448bf7",
+        "title": "MAkan Gratis",
+        "description": "makan gratis",
+        "keyword": "prabowo",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "economic",
+        "language": "en",
+        "start_date_crawl": "2025-01-01T00:00:00.000Z",
+        "end_date_crawl": "2025-02-28T00:00:00.000Z",
+        "createdAt": "2025-01-20T08:43:52.907Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "678e0cc825566c37e4448bf8"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678e209725566c37e4448c7b",
+        "title": "Pertambahan Nilai (PPN)",
+        "description": "Pemberlakuan kenaikan Pajak Pertambahan Nilai (PPN)",
+        "keyword": "ppn",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "economic",
+        "language": "en",
+        "start_date_crawl": "2024-12-01T00:00:00.000Z",
+        "end_date_crawl": "2025-01-20T00:00:00.000Z",
+        "createdAt": "2025-01-20T10:08:23.108Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "678e209725566c37e4448c7c"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678e08cd7ae271700e0f74ef",
+        "title": "makan",
+        "description": "makan",
+        "keyword": "makan gratis",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "economic",
+        "language": "en",
+        "start_date_crawl": "2025-01-01T00:00:00.000Z",
+        "end_date_crawl": "2025-02-28T00:00:00.000Z",
+        "createdAt": "2025-01-20T08:26:53.143Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "678e08cd7ae271700e0f74f0"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678f28cc25566c37e4448cd5",
+        "title": "test",
+        "description": "test2",
+        "keyword": "arabika",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "other",
+        "language": "id",
+        "start_date_crawl": "2024-07-02T00:00:00.000Z",
+        "end_date_crawl": "2024-08-02T00:00:00.000Z",
+        "createdAt": "2025-01-21T04:55:40.962Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "678f28cc25566c37e4448cd6"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678f2cff25566c37e4448cf2",
+        "title": "test",
+        "description": "test2",
+        "keyword": "arabika",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "other",
+        "language": "id",
+        "start_date_crawl": "2024-07-02T00:00:00.000Z",
+        "end_date_crawl": "2024-08-02T00:00:00.000Z",
+        "createdAt": "2025-01-21T05:13:35.128Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "678f2cff25566c37e4448cf3"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "678f2d0325566c37e4448cf5",
+        "title": "test",
+        "description": "test2",
+        "keyword": "arabika",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "other",
+        "language": "id",
+        "start_date_crawl": "2024-07-02T00:00:00.000Z",
+        "end_date_crawl": "2024-08-02T00:00:00.000Z",
+        "createdAt": "2025-01-21T05:13:39.370Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "678f2d0325566c37e4448cf6"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "679c896f0227fb71237af7b2",
+        "title": "Makan Gratis Prabowo",
+        "description": "Makan gratis di Indonesia kini semakin populer melalui berbagai inisiatif sosial dan gerakan komunitas yang bertujuan membantu mereka yang membutuhkan, seperti program berbagi makanan dan rumah makan sosial.",
+        "keyword": "Makan gratis",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "social",
+        "language": "en",
+        "start_date_crawl": "2024-12-01T00:00:00.000Z",
+        "end_date_crawl": "2025-01-30T00:00:00.000Z",
+        "createdAt": "2025-01-31T08:27:27.873Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "679c896f0227fb71237af7b3"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "679c8a530227fb71237af7c7",
+        "title": "Makan Gratis Prabowo 2",
+        "description": "asd",
+        "keyword": "Makan gratis",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "social",
+        "language": "en",
+        "start_date_crawl": "2024-12-01T00:00:00.000Z",
+        "end_date_crawl": "2025-01-31T00:00:00.000Z",
+        "createdAt": "2025-01-31T08:31:15.754Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "679c8a530227fb71237af7c8"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "679d157a0227fb71237af80b",
+        "title": "Politik Indonesia",
+        "description": "Pilkada Presiden 2024",
+        "keyword": "pilkada presiden",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "politics",
+        "language": "en",
+        "start_date_crawl": "2024-02-14T00:00:00.000Z",
+        "end_date_crawl": "2024-03-14T00:00:00.000Z",
+        "createdAt": "2025-01-31T18:24:58.385Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "679d157a0227fb71237af80c"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67aa0c6d07524eb0eb1ad447",
+        "title": "Byond BSI Mati",
+        "description": "Byond aplikasi m banking BSI",
+        "keyword": "byond bsi",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "economic",
+        "language": "id",
+        "start_date_crawl": "2025-02-08T00:00:00.000Z",
+        "end_date_crawl": "2025-02-10T00:00:00.000Z",
+        "createdAt": "2025-02-10T14:25:49.903Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "67aa0c6d07524eb0eb1ad448"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "679d16c90227fb71237af831",
+        "title": "Makan Gratis 3",
+        "description": "Makan Gratis",
+        "keyword": "Makan gratis",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "health",
+        "language": "en",
+        "start_date_crawl": "2024-11-01T00:00:00.000Z",
+        "end_date_crawl": "2025-02-28T00:00:00.000Z",
+        "createdAt": "2025-01-31T18:30:33.851Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "679d16c90227fb71237af832"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "679d19a80227fb71237af8a7",
+        "title": "Politik Indonesia",
+        "description": "Pilkada Presiden 2024",
+        "keyword": "pilkada",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "politics",
+        "language": "en",
+        "start_date_crawl": "2024-02-14T00:00:00.000Z",
+        "end_date_crawl": "2024-05-14T00:00:00.000Z",
+        "createdAt": "2025-01-31T18:42:48.576Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "679d19a80227fb71237af8a8"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67c73f42be3d667370014d43",
+        "title": "#bekasi banjir",
+        "description": "Banjirr cot",
+        "keyword": "#bekasi",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "data",
+        "language": "Indonesia",
+        "start_date_crawl": "2025-05-01T00:00:00.000Z",
+        "end_date_crawl": "2025-05-03T00:00:00.000Z",
+        "createdAt": "2025-03-04T17:58:26.568Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "67c73f42be3d667370014d44"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67c742705ba447819aa32fb5",
+        "title": "#bekasi banjir",
+        "description": "Banjirr cot",
+        "keyword": "#bekasi",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "data",
+        "language": "Indonesia",
+        "start_date_crawl": "2025-05-01T00:00:00.000Z",
+        "end_date_crawl": "2025-05-03T00:00:00.000Z",
+        "createdAt": "2025-03-04T18:12:00.882Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "67c742705ba447819aa32fb6"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67c744831cfdc2e2ed196d9c",
+        "title": "#bekasi banjir",
+        "description": "Banjirr cot",
+        "keyword": "#bekasi",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "data",
+        "language": "Indonesia",
+        "start_date_crawl": "2025-05-01T00:00:00.000Z",
+        "end_date_crawl": "2025-05-03T00:00:00.000Z",
+        "createdAt": "2025-03-04T18:20:51.312Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "67c744831cfdc2e2ed196d9d"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67c745ab1cfdc2e2ed196d9f",
+        "title": "#bekasi banjirss",
+        "description": "Banjirr sss",
+        "keyword": "#bekasi",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "data",
+        "language": "Indonesia",
+        "start_date_crawl": "2025-05-01T00:00:00.000Z",
+        "end_date_crawl": "2025-05-03T00:00:00.000Z",
+        "createdAt": "2025-03-04T18:25:47.879Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "67c745ab1cfdc2e2ed196da0"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67c7477c6362c24111294422",
+        "title": "#bekasi banjirss",
+        "description": "Banjirr sss",
+        "keyword": "#bekasi",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "data",
+        "language": "Indonesia",
+        "start_date_crawl": "2025-05-01T00:00:00.000Z",
+        "end_date_crawl": "2025-05-03T00:00:00.000Z",
+        "createdAt": "2025-03-04T18:33:32.856Z",
+        "project_status": {
+          "topic_modelling": false,
+          "sentiment": false,
+          "emotion": false,
+          "sna": false,
+          "_id": "67c7477c6362c24111294423"
+        },
+        "__v": 0
+      },
+      {
+        "_id": "67f9fc3608c6cc597a93778f",
+        "title": "RUU TNI",
+        "description": "Validasi",
+        "keyword": "RUU TNI",
+        "userId": "6736c3ee9df2cb30e6628565",
+        "topic_category": "politics",
+        "language": "id",
+        "start_date_crawl": "2025-03-01T00:00:00.000Z",
+        "end_date_crawl": "2025-04-10T00:00:00.000Z",
+        "createdAt": "2025-04-12T05:37:58.873Z",
+        "project_status": {
+          "topic_modelling": true,
+          "sentiment": true,
+          "emotion": true,
+          "sna": true,
+          "_id": "67f9fc3608c6cc597a937790"
+        },
+        "__v": 0
+      }
+    ],
+    "total": 28,
+    "page": 1,
+    "limit": 50
+  }
+}

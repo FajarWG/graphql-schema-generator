@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "generate": "node schemaGenerator.cjs",
+    "generate:db": "node mongoSchemaGenerator.cjs"
+  },
+  "dependencies": {
+    "mongodb": "^6.16.0"
+  }
+}
